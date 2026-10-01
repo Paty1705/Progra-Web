@@ -24,10 +24,10 @@
     <!--Perfiles-->
     <table width="100%" class="perfiles">
         <tr>
-            <td><div class="circulo"></div><h2>Estudiantes</h2><p>Becas y Convocatorias dirigidas a estudiantes, requisitos y resultados</p></td>
-            <td><div class="circulo"></div><h2>Empresas</h2><p>Convocatorias dirigidas a empresas, requisitos y resultados.</p></td>
-            <td><div class="circulo"></div><h2>Investigadores</h2><p>Convocatorias dirigidas a investigadores, requisitos y resultados.</p></td>
-            <td><div class="circulo"></div><h2>Divulgadores</h2><p>Proyecto y eventos para la difusión de la Ciencia y Tecnología.</p></td>
+            <td><img src="imagenes/ciencia.jpg" class="circulo"><h2>Estudiantes</h2><p>Becas y Convocatorias dirigidas a estudiantes, requisitos y resultados</p></td>
+            <td><img src="imagenes/propiedad.jpg" class="circulo"><h2>Empresas</h2><p>Convocatorias dirigidas a empresas, requisitos y resultados.</p></td>
+            <td><img src="imagenes/investigadora.jpg" class="circulo"><h2>Investigadores</h2><p>Convocatorias dirigidas a investigadores, requisitos y resultados.</p></td>
+            <td><img src="imagenes/ninos.jpg" class="circulo"><h2>Divulgadores</h2><p>Proyecto y eventos para la difusión de la Ciencia y Tecnología.</p></td>
         </tr>
     </table>
     <hr>
@@ -37,16 +37,16 @@
         <tr>
             <td class="azul"><h2><a href="#">Premio Estatal de Ciencia y Tecnología</a></h2>
                 <a href="#">Reconocimiento del Gobierno del Estado de México a los investigadores y tecnológicos</a></td>
-            <td class="imagen">Imagen</td>
+            <td class="imagen"><img src="imagenes/ciencia.jpg" class="tarjeta"></td>
             <td class="lila"><h2><a href="#">Revista Deveras</a></h2>
                 <a href="#">Deveras, revista de ciencia para niños.</a></td>
-            <td class="imagen">Imagen</td>
+            <td class="imagen"><img src="imagenes/ninos.jpg" class="tarjeta"></td>
         </tr>
         <tr>
-            <td class="imagen">Imagen</td>
+            <td class="imagen"><img src="imagenes/propiedad.jpg" class="tarjeta"></td>
             <td class="morado"><h2><a href="#">Asesoría y capacitación en propiedad intelectual</a></h2>
                 <a href="#">Asesoría y capacitación para la propiedad intelectual.</a></td>
-            <td class="imagen">Imagen</td>
+            <td class="imagen"><img src="imagenes/transparencia.jpg" class="tarjeta"></td>
             <td class="violeta"><h2><a href="#">Transparencia</a></h2>
                 <a href="#">Es el conjunto de actividades e iniciativas ordenadas adicionales de las obligaciones que marca la Ley.</a></td>
         </tr>
